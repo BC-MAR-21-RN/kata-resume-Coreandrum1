@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Francisco Sabino López Escamila # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile.jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: franciscosabino_lopez@ucol.mx
+  phone:  (312) 339-3323
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: linkedin.com/in/FranciscoLEscamilla
+  github: github.com/Coreandrum1
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Fluent (C1) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: French
+      level: B1
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
