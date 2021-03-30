@@ -15,11 +15,11 @@ sidebar:
   email: franciscosabino_lopez@ucol.mx
   phone:  (312) 339-3323
   website: # No agregar http://
-  linkedin: linkedin.com/in/FranciscoLEscamilla
+  linkedin: linkedin.com/in/Francisco-SLE
   github: github.com/Coreandrum1
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@Francisco_SLE'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent (C1) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -40,10 +40,19 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Empathy
       link: # dejar en blanco
 
     - item: Time Management
+      link: # dejar en blanco
+
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Open-mindedness
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
