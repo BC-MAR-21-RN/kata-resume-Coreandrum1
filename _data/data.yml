@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Francisco Sabino López Escamila # Nombre completo
+  name: Francisco Sabino López Escamilla # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: franciscosabino_lopez@ucol.mx
-  phone:  (312) 339-3323
+  phone:  (312) 339 3323
   website: # No agregar http://
   linkedin: linkedin.com/in/Francisco-SLE
   github: github.com/Coreandrum1
@@ -85,31 +85,27 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Web developer
+    time: 2020 apr - 2020 june
+    company: Avila Cervantes Corporativo
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Multimedia manager and text writer, constant proposal of ideas and legal use verification.
+      Active team participation for web page design using design principles. Implementation of accessibility guidelines.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Game developer, data scientist
+    time: 2020 aug - 2021 jan
+    company: University of Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Game development supervised by University of Colima teachers, prototype of a videogame environment capable of change dynamically its difficulty matching player skill levels.
+      Developed on Unity engine, using C# and implementing Unity Machine Learning Agents.
+
+  - role: Software developer
+    time: 2019 may - 2019 june
+    company: University of Colima
+    details: |
+      Advised development of functional components of debt collection web application. Continuous usage of Laravel and Bootstrap frameworks and PHP and javascript languages. MVC pattern implemented in a REST web service
+
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
