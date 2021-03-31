@@ -61,13 +61,13 @@ career-profile:
   summary: |
     I am a Software Engineer student at University of Colima.
     Improving my skill and learning new things in order to solve problems are goals always present in my mind.
-    My greatest passions are technology and art, I manage to externalize both through software development, focusing on UX & UI and exploiting my critical thinking skills to make thing scalable and eficient.
+    My greatest passions are technology and art, I manage to externalize both through software development, focusing on UX & UI and exploiting my critical thinking skills to make thing scalable and efficient.
     I get the job done by communicating constantly with teammates and adapting to different environments.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Associate Degree
-    university: Colegio de Estudios Científicos y Tecnológico del Estado de Baja California
+    university: CECyTE Baja California
     time: 2015 Feb - 2016 Aug
     details: |
 
@@ -121,23 +121,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: JavaScript
+      level: 80%
+
+    - name: C#
+      level: 60%
+
+    - name: PHP
+      level: 60%
+
+    - name: HTML/CSS
+      level: 80%
+
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: SQL
       level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
