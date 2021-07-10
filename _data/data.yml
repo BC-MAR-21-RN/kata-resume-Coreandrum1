@@ -92,15 +92,14 @@ experiences:
       Multimedia manager and text writer, constant proposal of ideas and legal use verification.
       Active team participation for web page design using design principles. Implementation of accessibility guidelines.
 
-  - role: Game developer, data scientist
-    time: 2020 aug - 2021 jan
-    company: University of Colima
+  - role: Mobile developer
+    time: 2021 May - 2021 June
+    company: BrightCoders Academy
     details: |
-      Game development supervised by University of Colima teachers, prototype of a videogame environment capable of change dynamically its difficulty matching player skill levels.
-      Developed on Unity engine, using C# and implementing Unity Machine Learning Agents.
+      Collaboration with development team to create a social media Android application to make community complaints public, we produced a minimal viable product using React Native and Firebase services for authentication and database, focusing our efforts on learning process and teamwork.  
 
   - role: Software developer
-    time: 2019 may - 2019 june
+    time: 2019 May - 2019 june
     company: University of Colima
     details: |
       Advised development of functional components of debt collection web application. Continuous usage of Laravel and Bootstrap frameworks and PHP and javascript languages. MVC pattern implemented in a REST web service
@@ -123,16 +122,25 @@ skills:
     - name: JavaScript
       level: 80%
 
-    - name: C#
-      level: 60%
-
-    - name: PHP
+    - name: Git/GitHub
       level: 60%
 
     - name: HTML/CSS
       level: 80%
 
+    - name: Figma
+      level: 80%
+
+    - name: C#
+      level: 60%
+
+    - name: PHP
+      level: 40%
+
     - name: SQL
+      level: 60%
+
+    - name: Adobe Illustrator
       level: 60%
 
 # NO MODIFICAR
