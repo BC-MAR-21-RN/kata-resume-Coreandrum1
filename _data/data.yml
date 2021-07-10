@@ -61,7 +61,7 @@ career-profile:
   summary: |
     I am a Software Engineer student at University of Colima.
     Improving my skill and learning new things in order to solve problems are goals always present in my mind.
-    My greatest passions are technology and art, I manage to externalize both through software development, focusing on UX & UI and exploiting my critical thinking skills to make thing scalable and efficient.
+    My greatest passions are technology and art, I manage to externalize both through software development, focusing on UX & UI and exploiting my critical thinking skills to make scalable products and do processes efficiently.
     I get the job done by communicating constantly with teammates and adapting to different environments.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -91,6 +91,7 @@ experiences:
     details: |
       Multimedia manager and text writer, constant proposal of ideas and legal use verification.
       Active team participation for web page design using design principles. Implementation of accessibility guidelines.
+      webpage: https://avilacervantes.com
 
   - role: Mobile developer
     time: 2021 May - 2021 June
