@@ -73,15 +73,15 @@ educationcomplete:
 
   - degree: Bachelor Degree
     university: University of Colima (Colima, México)
-    time: 2017 Aug - current
+    time: 2017 Aug - 2021 Jun
     details: |
       Software Engineering degree
 
   - degree: Internship
     university: BrightCoders Academy
-    time: 2021 - current
+    time: 2021 Jan - 2021 June
     details: |
-       React Native development apprentice
+       React Native Mobile Developer certificate 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -117,6 +117,9 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: React Native
+    level: 80%
+
     - name: JavaScript
       level: 80%
 
@@ -128,9 +131,6 @@ skills:
 
     - name: HTML/CSS
       level: 80%
-
-    - name: Python
-      level: 20%
 
     - name: SQL
       level: 60%
